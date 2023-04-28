@@ -25,5 +25,6 @@ public class Ejer3 {
         System.out.println("RESTA: " + o1.restar());
         System.out.println("MULTIPLICACION: " + o1.multiplicar());
         System.out.println("DIVISION: " + o1.dividir());
+        System.out.println("CHUPALA ESTO SALIO RE BIEN!!!");
     }
 }
